@@ -1,6 +1,6 @@
 # Sujan Anandh S I — Portfolio
 
-> Live portfolio: [your-netlify-url.netlify.app](https://your-netlify-url.netlify.app)
+> Live portfolio: [Sujan Anandh Portfolio](https://sujan-anandh-portfolio.netlify.app/)
 
 Built with React + Vite. Dark animated portfolio showcasing my projects, skills, experience, and journey.
 
